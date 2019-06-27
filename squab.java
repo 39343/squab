@@ -20,6 +20,7 @@ public class squab {
 		{
 			System.out.println("Ney");
 			System.out.println("neyney " +myObj.x);
+            System.out.print(myObj.x + summe);
 		}
 
 	}
